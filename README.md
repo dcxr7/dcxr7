@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dcxr7
-- 👀 I’m interested in ... making changes to code
-- 🌱 I’m currently learning ... homebridge setups
-- 💞️ I’m looking to collaborate on ... code fixes
+- 👀 I’m interested in ... making changes to code, jailbreaks and homebridge
+- 🌱 I’m currently learning ... homebridge setups.
+- 💞️ I’m looking to collaborate on ... code fixes for various platforms
 - 📫 How to reach me ... @dcxr7 pretty much everywhere.
 
 <!---
